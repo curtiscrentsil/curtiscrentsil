@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @curtiscrentsil<br>👀 I’m interested in javascript, python, react native, and anything javascript<br>🌱 I’m currently learning redux<br>💞️ I’m looking to collaborate on anything javascript<br>📫 How to reach me ... @curtis.crentsil on Instagram
+👋 Hi, I’m @curtiscrentsil<br>👀 I’m interested in javascript, python, react native, and anything javascript<br>🌱 I’m currently learning AI Development<br>💞️ I’m looking to collaborate on anything javascript<br>📫 How to reach me ... @curtis.crentsil on Instagram
 
 
 ## 🌐 Socials:
